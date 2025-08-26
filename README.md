@@ -24,5 +24,5 @@ pip install -r requirements.txt
 ## Add your OpenAI API key inside it:
 OPENAI_API_KEY=sk-your-real-api-key
 
-## TO run the main script
+## To run the main script
 python main.py
