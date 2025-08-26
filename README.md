@@ -5,7 +5,7 @@ It research about the given prompt and creates a text in defined format that is 
 
 ---
 
-## 📌 Features
+##  Features
 - Uses **LangChain** to manage LLM prompts & responses  
 - Integrates **OpenAI GPT models** (`gpt-4o-mini`)  
 - Loads API keys securely with `.env`  
